@@ -1,2 +1,2 @@
-# ykn-u
-Сайт для компании YKN-U
+# Yukon Union
+Сайт для компании YKN-U.ru
